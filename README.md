@@ -5,7 +5,6 @@ Fix Photoshop scratch disk full error and get back to work in one click.
 ---
 
 <p align="center">
-  <a href="../../releases">
     <img src="https://img.shields.io/badge/📦_DOWNLOAD_LATEST_VERSION-blue?style=for-the-badge&color=blue" alt="Download">
   </a>
 </p>
